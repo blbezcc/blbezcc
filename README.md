@@ -2,4 +2,13 @@
 - 👀 I’m interested in JavaScript (backend w/ Node.js, frontend w/ Vue.js), HTML, CSS, Python, Shell (ZSH), anything Linux-related and generaly tech-related.
 - 🌱 I’m currently learning all of the above.
 - 📫 How to reach me: stepanzak@proton.me
-- 😎 I use Arch btw
+- 😎 Proud of my [dotfiles](https://github.com/stepanzak/dotfiles)
+- 🧑‍💻 Amazing software I use every day:
+  - EndeavourOS
+  - KDE Plasma
+  - Vivaldi
+  - Wezterm
+  - Tmux
+  - Zsh with Powerlevel10k
+  - Neovim with NvChad
+  - and a lot more... (but these are my favorites)
