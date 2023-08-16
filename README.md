@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @stepanzak
 - 👀 I’m interested in JavaScript (backend w/ Node.js, frontend w/ Vue.js), HTML, CSS, Python, Shell (ZSH), anything Linux-related and generaly tech-related.
 - 🌱 I’m currently learning all of the above.
-- 📫 How to reach me: stepka279.zak@gmail.com
+- 📫 How to reach me: stepanzak@proton.me
 - 😎 I use Arch btw
